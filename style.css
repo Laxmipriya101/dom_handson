@@ -1,0 +1,62 @@
+.parent {
+  display: flex;
+  flex: wrap;
+}
+.child {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  margin: 10px 20px;
+  border-radius: 10px;
+}
+
+.style {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+#text {
+  font-size: 18px;
+}
+
+#event {
+  width: 180px;
+  height: 50px;
+  font-size: 16px;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+}
+
+#style-1 {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: purple;
+  color: white;
+}
+
+#box1 {
+  font-size: 20px;
+}
+
+#style-2 {
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+}
+
+.main {
+  display: flex;
+  color: brown;
+  margin-left: 10px;
+  font-size: 17px;
+}
+
+a {
+  font-size: 25px;
+  padding-left: 40px;
+}
